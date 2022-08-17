@@ -1,6 +1,8 @@
 # CODE-CRM-FORM-API
 
-MỌI NGƯỜI LẤY CODE Ở FILE CODE NHÉ XONG ẤN CLTR + A ĐỂ CHỌN TẤT CẢ RỒI CLTR + C ĐỂ COPY
+MỌI NGƯỜI LẤY CODE Ở FILE CODE NHÉ BẤM VÀO BIỂU TƯỢNG NHƯ HÌNH BÊN DƯỚI 
+
+![image](https://github.com/dhng1002/CODE-CRM-FORM-API/blob/main/C%C3%A1ch%20copy%20code.jpg?raw=true)
 
 BƯỚC 1 Đăng nhập CRM như bình thường
 
