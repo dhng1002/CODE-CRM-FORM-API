@@ -6,7 +6,8 @@ BƯỚC 2 Chọn lớp cần nhập crm
 
 BƯỚC 3 Bấm tổ hợp phím CLTR + SHIFT + J
 
-BƯỚC 4 
+BƯỚC 4 Chọn vào tab console như dưới ảnh
 
-![image](https://user-images.githubusercontent.com/84856125/185247950-dde7fba0-dd73-4066-9092-88bfe35d6dd9.png)
+![image](https://github.com/dhng1002/CODE-CRM-FORM-API/blob/main/B4.jpg?raw=true)
 
+Bước 5 PASTE CODE bấm CLTR V sẽ được như ảnh và ấn ENTER
