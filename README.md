@@ -14,5 +14,5 @@ BƯỚC 4 Chọn vào tab console như dưới ảnh
 
 Bước 5 PASTE CODE bấm CLTR V sẽ được như ảnh và ấn ENTER
 
-![image](https://github.com/dhng1002/CODE-CRM-FORM-API/blob/main/B4.jpg?raw=true](https://github.com/dhng1002/CODE-CRM-FORM-API/blob/main/B5.jpg?raw=true)
+![image](https://github.com/dhng1002/CODE-CRM-FORM-API/blob/main/B5.jpg?raw=true)
 
